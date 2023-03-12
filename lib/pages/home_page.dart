@@ -1,5 +1,5 @@
+import 'package:dribble_game_mobile/widgets/prompt.dart';
 import 'package:flutter/material.dart';
-import 'package:sandbox/widgets/prompt.dart';
 
 const kPagePadding = 8.0;
 

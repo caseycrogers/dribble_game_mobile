@@ -1,6 +1,6 @@
+import 'package:dribble_game_mobile/model/game_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:sandbox/model/game_model.dart';
 
 class Prompt extends StatelessWidget {
   const Prompt({super.key});
